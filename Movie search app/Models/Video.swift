@@ -9,6 +9,6 @@
 import Foundation
 
 struct Video: Decodable {
-    let id: Int
+    let id: String
     let key: String
 }
